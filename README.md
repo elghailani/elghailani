@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elghailani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=elghailani)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
