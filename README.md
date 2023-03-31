@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elghailani&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elghailani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/elghailani">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elghailani&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/elghailani">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?hide=html,TypeScript&langs_count=7&username=elghailani&layout=compact" />
+</a>
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=elghailani)](https://github.com/anuraghazra/github-readme-stats)
