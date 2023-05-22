@@ -7,7 +7,14 @@
 
 <a href="https://github.com/elghailani">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?hide=html,TypeScript&langs_count=7&username=elghailani&layout=compact" />
-</a>
+</a>  
+
+</br>  
+
+![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/vue/0-profile-details.svg)  
+
+![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/vue/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/vue/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/vue/3-stats.svg) ![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/vue/4-productive-time.svg)
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=elghailani)](https://github.com/anuraghazra/github-readme-stats)
