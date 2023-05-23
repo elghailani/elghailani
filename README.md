@@ -2,19 +2,17 @@
 
 
 <a href="https://github.com/elghailani">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elghailani&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elghailani&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" />
 </a>
 
 <a href="https://github.com/elghailani">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?hide=html,TypeScript&langs_count=7&username=elghailani&layout=compact" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?hide=html,TypeScript&langs_count=7&username=elghailani&layout=compact&theme=github_dark" />
 </a>  
 
 </br>  
 
 
 [![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <!--
