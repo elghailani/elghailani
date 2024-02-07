@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,nodejs,figma,css,docker,elasticsearch,git,github,githubactions,html,js,jenkins,jquery,linux,md,mysql,nginx,nuxtjs,php,postgres,postman,redis,regex,sass,sentry,symfony,vim,vuewebpack&theme=light&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,nodejs,figma,css,docker,elasticsearch,git,github,githubactions,html,js,jenkins,jquery,linux,md,mysql,nginx,nuxtjs,php,postgres,postman,redis,regex,sass,sentry,symfony,vim,vue,webpack,idea,vscode&theme=light&perline=9" />
 </p>
 
 
