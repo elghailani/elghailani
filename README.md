@@ -12,15 +12,18 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elghailani&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" />
 </a>
 -->
-<a href="https://github.com/elghailani">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?hide=html,TypeScript&langs_count=7&username=elghailani&layout=compact&theme=github_dark" />
-</a>  
+<p align="center">
+    <a href="https://github.com/elghailani">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?hide=html,TypeScript&langs_count=7&username=elghailani&layout=compact&theme=github_dark" />
+    </a> 
+</p>
 
-</br>  
 
+<p align="center">
 
 [![](https://raw.githubusercontent.com/elghailani/elghailani/main/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+</p>
 
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=elghailani)](https://github.com/anuraghazra/github-readme-stats)
