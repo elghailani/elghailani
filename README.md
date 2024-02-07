@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,nodejs,figma,css,docker,elasticsearch,git,github,githubactions,html,js,jenkins,jquery,linux,md,mysql,nginx,nuxtjs,php,postgres,postman,redis,regex,sass,sentry,symfony,vim,vuewebpack&theme=light&perline=7" />
+</p>
+
+
+
+
 <!--
 <a href="https://github.com/elghailani">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elghailani&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" />
